@@ -1,0 +1,43 @@
+.blockWrapper
+ {
+     background-color: #363636;
+     padding: 15px;
+     border-radius: 15px;
+     -moz-box-shadow: 0 0 3px #333333;
+     -webkit-box-shadow: 0 0 3px #333333;
+     box-shadow: 0 0 3px #333333;
+}
+
+.homeWrapper {
+     list-style-type: disc;
+}
+
+.homeHeader {
+     font-size: 17px;
+}
+
+.homeSpace {
+     margin-top: 35px;
+}
+
+.homeItem {
+     color: rgb(182, 182, 182);
+     margin-left: 20px;
+}
+
+/* NoMatch Styles */
+
+.NoMatchContainer {
+     text-align: center;
+}
+
+.NoMatchHeader {
+     font-size: 34px;
+}
+
+.duckerz {
+     margin-top: 15px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}

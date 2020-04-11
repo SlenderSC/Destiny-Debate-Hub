@@ -1,0 +1,38 @@
+.blockWrapper {
+     margin-bottom: 30px;
+     background-color: #363636;
+     padding: 15px;
+     border-radius: 15px;
+     -moz-box-shadow: 0 0 3px #333333;
+     -webkit-box-shadow: 0 0 3px #333333;
+     box-shadow: 0 0 3px #333333;
+}
+
+.blockTitle {
+     font-size: 20px;
+     margin-bottom: 15px;
+}
+
+.toggleButton {
+     float: right;
+     margin-top: -5px;
+     padding: 10px 15px 10px 15px;
+     border-radius: 10px;
+     -moz-box-shadow: 0 0 3px #000000;
+     -webkit-box-shadow: 0 0 3px #000000;
+     box-shadow: 0 0 3px #000000;
+}
+
+.toggleButton:hover,
+.visVisbile,
+.visHidden {
+     transition-duration: 0.2s;
+}
+
+.visVisbile {
+     display: block;
+}
+
+.visHidden {
+     display: none;
+}

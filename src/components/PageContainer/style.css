@@ -1,0 +1,17 @@
+.pageContainer {
+     min-height: 100vh;
+}
+
+.innerColumn {
+     background-color: #4f4f4f;
+     padding-right: 5vw;
+     padding-left: 5vw;
+     margin-right: 10vw;
+     margin-left: 10vw;
+     padding-top: 4vh;
+     min-height: 100vh;
+     -moz-box-shadow: 0 0 3px rgb(24, 24, 24);
+     -webkit-box-shadow: 0 0 3px rgb(24, 24, 24);
+     box-shadow: 0 0 3px rgb(24, 24, 24);
+     padding-bottom: 5vh;
+}

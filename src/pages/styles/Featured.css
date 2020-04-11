@@ -1,0 +1,9 @@
+.listWrapper {
+     margin-bottom: 30px;
+     background-color: #363636;
+     padding: 10px 15px 15px 15px;
+     border-radius: 15px;
+     -moz-box-shadow: 0 0 3px #333333;
+     -webkit-box-shadow: 0 0 3px #333333;
+     box-shadow: 0 0 3px #333333;
+}

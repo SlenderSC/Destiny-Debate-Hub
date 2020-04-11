@@ -1,0 +1,18 @@
+.visState {
+     display: list-item;
+     color: whitesmoke;
+     margin-bottom: 5px;
+     list-style: circle;
+}
+
+.hidState {
+     display: none;
+}
+
+.mleft {
+     margin-left: 40px;
+}
+
+.postText {
+     color: rgb(182, 182, 182);
+}

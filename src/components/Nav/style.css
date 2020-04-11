@@ -1,0 +1,64 @@
+/* Navbar */
+
+.navbar {
+     height: 70px;
+}
+
+.navbar-item img {
+     max-height: 1000rem;
+}
+
+.navbar-brand {
+     margin-left: 10vw;
+}
+
+.end-padding {
+     width: 70px;
+     margin-right: 15px;
+     height: 70px;
+}
+
+.navbar-burger {
+     height: 70px;
+     width: 70px;
+     margin-right: 12vw;
+}
+
+.navbar-item {
+     padding: 0.5rem 2.25rem;
+}
+
+.logo {
+     height: 3.25rem;
+     color: #d8d8d8;
+     font-size: 22px;
+     line-height: 1.5;
+     margin-top: 17px;
+     /* margin-right: 15vw; */
+}
+
+a {
+     color: #d8d8d8;
+}
+
+a:hover {
+     color: #d8d8d8;
+}
+
+.navbarEndColor {
+     background-color: #0a0a0a;
+}
+
+#navbarBasicExample.navbarCustomActive {
+     background-color: #0a0a0a;
+     padding: 0;
+}
+
+a.navbar-item:hover {
+     background-color: #000000;
+     color: #1c1e20;
+}
+
+.spacer {
+     margin-right: 10vw;
+}

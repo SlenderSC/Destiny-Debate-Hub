@@ -1,0 +1,7 @@
+.tagItem {
+     display: list-item;
+     color: rgb(182, 182, 182);
+     margin-bottom: 5px;
+     list-style: circle;
+     margin-left: 40px;
+}

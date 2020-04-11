@@ -1,0 +1,18 @@
+.headerTitle {
+     font-size: 22px;
+     background-color: #363636;
+     color: #e6e6e6;
+     -moz-box-shadow: 0 0 3px #333333;
+     -webkit-box-shadow: 0 0 3px #333333;
+     box-shadow: 0 0 3px #333333;
+     padding: 15px;
+     border-radius: 15px;
+     margin-bottom: 25px;
+     display: inline-block;
+}
+
+
+.loadingContainer {
+    text-align: center;
+    margin-top: 15vh;
+}
