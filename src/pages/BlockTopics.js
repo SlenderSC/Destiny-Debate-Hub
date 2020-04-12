@@ -289,9 +289,10 @@ class BlockTopics extends Component {
 
      handleVisibility = (event) => {
           let target, inner, groupList;
-          event.target.getAttribute("data") !== null ? (target = event.target.getAttribute("data")) : (target = "None");
-          event.target.innerText !== null ? (inner = event.target.innerText) : (inner = event.target.innerText);
-
+          // event.target.getAttribute("data") !== null ? (target = event.target.getAttribute("data")) : (target = "None");
+          // event.target.innerText !== null ? (inner = event.target.innerText) : (inner = event.target.innerText);
+          target = event.target.getAttribute("data");
+          inner = event.target.innerText;
           groupList = this.state[target];
           let foundIndex = groupList.findIndex((x) => x.featured === inner);
           if (groupList[foundIndex].visibility === "hidState") {
