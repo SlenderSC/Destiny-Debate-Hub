@@ -45,7 +45,7 @@ class Press extends Component {
                          <li>
                               <a
                                    className="pressItem"
-                                   href="https://www.wired.com/story/twitch-politics-online-debate/"
+                                   href="https://www.magzter.com/article/News/Mother-Jones/Call-of-Duty/"
                                    target="_blank" rel="noopener noreferrer"
                               >
                                    <i>
