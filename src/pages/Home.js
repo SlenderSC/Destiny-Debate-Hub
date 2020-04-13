@@ -40,10 +40,10 @@ class Home extends Component {
                                    it just hasn't been added yet but will in the future.
                               </li>
                          </ul>
-                         <div className="homeHeader homeSpace">Does this site feature any easter eggs?</div>
+                         {/* <div className="homeHeader homeSpace">Does this site feature any easter eggs?</div>
                          <ul className="homeWrapper">
                               <li className="homeItem">Sure, probably, I'd have to think about it</li>
-                         </ul>
+                         </ul> */}
                     </div>
                </PageContainer>
           );
