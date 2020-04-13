@@ -56,7 +56,7 @@ class SpecificDebate extends Component {
                                    src={[`https://www.youtube.com/embed/${this.state.urlid}`].join(" ")}
                                    frameborder="0"
                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                   allowfullscreen
+                                   allowfullscreen="allowfullscreen"
                               ></iframe>
                          </div>
                          <div className="columns">
